@@ -1,4 +1,4 @@
-1. streamlit
-2. yfinance
-3. pandas
-3. matplotlib
+streamlit
+yfinance
+pandas
+matplotlib
